@@ -101,7 +101,7 @@ Simulations and examples cover all of the above theory.
 \rule[-2ex]{0pt}{0ex}\\
 \hline \rule[-2ex]{0pt}{5.5ex}
   &  &  &  \textbf{CLR} & & \textbf{AF} \\
-   \textbf{10 observations}, & $x_{1}-1 < \theta < x_{n}+1$ &  &
+   \textbf{10 observations}, & $x_{1}-1 < \theta < x_{10}+1$ &  &
 \textbf{95.0 \textendash\space 95.2} & & 
 \textbf{90.0  \textendash\space  97.5} \\
 \rule[-2ex]{0pt}{5.5ex}

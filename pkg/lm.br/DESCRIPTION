@@ -1,8 +1,8 @@
 Package: lm.br
 Type: Package
 Title: Linear Model with Breakpoint
-Version: 2.8
-Date: 2016-01-28
+Version: 2.9
+Date: 2017-04-20
 Authors@R: c( person("Marc", "Adams", role= c("aut", "cre"), email= "lm.br.pkg@gmail.com"),
   person("authors of R function 'lm'", role = "ctb", comment = "general interface"),
   person("authors of 'lm.gls'", role = "ctb", comment = "interface and R code for covariate weights"),
@@ -17,7 +17,8 @@ License: GPL (>= 2)
 Depends: R(>= 3.0.1), Rcpp (>= 0.11.0)
 Imports: stats, methods, graphics, datasets
 LinkingTo: Rcpp
-Packaged: 2016-01-28 16:09:50 UTC; marc
+NeedsCompilation: yes
+Packaged: 2017-04-20 20:11:57 UTC; Marc
 Author: Marc Adams [aut, cre],
   authors of R function 'lm' [ctb] (general interface),
   authors of 'lm.gls' [ctb] (interface and R code for covariate weights),

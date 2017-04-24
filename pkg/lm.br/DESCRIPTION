@@ -13,13 +13,13 @@ Copyright: 'lm.br' uses the design and some R-code of 'lm' copyright
         Ripley.
 Description: Exact significance tests for a changepoint in linear or multiple linear regression.  
   Confidence regions with exact coverage probabilities for the changepoint.  The method is from
-  Knowles, Siegmund and Zhang (1991) <doi: https://doi.org/10.1093/biomet/78.1.15 >.
+  Knowles, Siegmund and Zhang (1991) <doi: 10.2307/2336892 >.
 License: GPL (>= 2)
 Depends: R(>= 3.0.1), Rcpp (>= 0.11.0)
 Imports: stats, methods, graphics, datasets
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2017-04-24 12:36:11 UTC; Marc
+Packaged: 2017-04-24 19:11:08 UTC; Marc
 Author: Marc Adams [aut, cre],
   authors of R function 'lm' [ctb] (general interface),
   authors of 'lm.gls' [ctb] (interface and R code for covariate weights),

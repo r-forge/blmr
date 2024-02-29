@@ -1,8 +1,8 @@
 Package: lm.br
 Type: Package
 Title: Linear Model with Breakpoint
-Version: 2.9.5
-Date: 2022-09-29
+Version: 2.9.7
+Date: 2024-02-12
 Authors@R: c( person("Marc", "Adams", role= c("aut", "cre"), email= "lm.br.pkg@gmail.com"),
   person("authors of R function 'lm'", role = "ctb", comment = "general interface"),
   person("authors of 'lm.gls'", role = "ctb", comment = "interface and R code for covariate weights"),
